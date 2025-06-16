@@ -7,3 +7,5 @@ I'm working on feature-123 # this feature is so good
 Testing EOL
 
 I want to delete this completly!
+
+Other thing after stash

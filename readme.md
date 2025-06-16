@@ -13,3 +13,5 @@ Other thing after stash
 I m doing something but not finishedX
 
 Plz now LF
+
+button sync
